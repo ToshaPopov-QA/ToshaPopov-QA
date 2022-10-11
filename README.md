@@ -7,6 +7,7 @@
 My CV
 
 ### Tools
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 [JIRA](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 Testing Documentation

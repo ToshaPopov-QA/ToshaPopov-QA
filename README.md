@@ -30,4 +30,4 @@ Testing Documentation
 
 ### Contact information:
 
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-popov-/)
+[![Header](https://img.shields.io/badge/Linkedin-131622?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-popov-/)

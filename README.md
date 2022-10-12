@@ -1,6 +1,6 @@
 ![Header](https://github.com/ToshaPopov-QA/ToshaPopov-QA/blob/main/assets/Плашка%20PNG.png)
 
-## I'm a QA Engineer
+## Hello! My name is Anton and i am a QA Engineer
 ## My CV:
 [Link to my CV](https://drive.google.com/file/d/1BrexejfvraLbUiO0Ooa1LjROre1wuNnM/view?usp=sharing)
 
@@ -28,6 +28,6 @@
 
 Testing Documentation
 
-### Contact information:
+### Follow me:
 
 [![Header](https://img.shields.io/badge/Linkedin-131622?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-popov-/)

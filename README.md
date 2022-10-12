@@ -31,3 +31,5 @@ Testing Documentation
 ### Follow me:
 
 [![Header](https://img.shields.io/badge/Linkedin-131622?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anton-popov-/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToshaPopov-QA&show_icons=true&theme=chartreuse-dark)

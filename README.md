@@ -30,6 +30,7 @@
 - [Test-Cases](https://github.com/ToshaPopov-QA/test-cases)
 - [Bug-Reports](https://github.com/ToshaPopov-QA/bug-reports)
 - [MySQL Queries](https://github.com/ToshaPopov-QA/MySQL)
+- [Checklists](https://github.com/ToshaPopov-QA/Checklists)
 
 
 

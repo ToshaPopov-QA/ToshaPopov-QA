@@ -26,7 +26,12 @@
 
 
 
-Testing Documentation
+### Testing Documentation
+- [Test-Cases](https://github.com/ToshaPopov-QA/test-cases)
+- [Bug-Reports](https://github.com/ToshaPopov-QA/bug-reports)
+- [MySQL Queries](https://github.com/ToshaPopov-QA/MySQL)
+
+
 
 ### Follow me:
 
